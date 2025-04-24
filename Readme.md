@@ -10,4 +10,4 @@ I'd be updating this read.me, trying to read what I've learned on each lesson.
 
 ### DAY 1
 
--   I've learned about key event, new tag like <kbd>, how to link the audio and information about data-key, more about HTML DOM and how to use css classes in the classList.
+-   I've learned about key event, new tag like kbd, how to link the audio and information about data-key, more about HTML DOM and how to use css classes in the classList.
