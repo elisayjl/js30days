@@ -15,3 +15,7 @@ I'd be updating this read.me, trying to read what I've learned on each lesson.
 ### DAY 2
 
 -   I've learned today about CSS transition and transform, and also how to manipulate the hour with JS.
+
+### DAY 3
+
+-   I've learned today about variable in CSS and how I can manipulate this variable with JS, plus, more about the use of addEventListener().
